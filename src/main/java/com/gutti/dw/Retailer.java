@@ -2,6 +2,7 @@ package com.gutti.dw;
 
 /**
  * Created by Veeresh Gutti on 29/12/15.
+ *
  */
 public class Retailer {
     private String rId;
